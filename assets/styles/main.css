@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: #eeeeee;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.heading {
+  font-family: "Fugaz One", cursive;
+  font-size: 4rem;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  color: #222831;
+}
+
+.create-watch {
+  border: solid 3px #393e46;
+  position: relative;
+  top: 120px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Fonts  */
+
+/* font-family: 'Fugaz One', cursive;
+font-family: 'Ubuntu', sans-serif; */
+
+/* Color Pallet */
+
+/* #222831
+
+#393E46
+
+#00ADB5
+
+#EEEEEE */
